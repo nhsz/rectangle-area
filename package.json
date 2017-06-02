@@ -1,0 +1,33 @@
+{
+  "name": "rectangle-area",
+  "version": "0.0.1",
+  "description": "Get the area of a rectangle, given the length and width",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/rectangle-area.git"
+  },
+  "keywords": [
+    "rectangle",
+    "area",
+    "polygons",
+    "math"
+  ],
+  "author": {
+    "name": "Nicolás Quiroz",
+    "email": "nh.quiroz@gmail.com",
+    "url": "nicolasquiroz.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/rectangle-area/issues"
+  },
+  "homepage": "https://github.com/nhsz/rectangle-area#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
