@@ -1,6 +1,6 @@
 {
   "name": "rectangle-area",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get the area of a rectangle, given the length and width",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "rectangle",
     "area",
     "polygons",
+    "geometry",
     "math"
   ],
   "author": {
