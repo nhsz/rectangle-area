@@ -1,6 +1,6 @@
 # rectangle-area
 
-[![NPM](https://nodei.co/npm/rectangle-area.png)](https://nodei.co/npm/rectangle-area/)
+[![NPM](https://nodei.co/npm/rectangle-area.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/rectangle-area/)
 
 > Get the **[`area of a rectangle`](https://en.wikipedia.org/wiki/Rectangle#Formulae)**, given the length and width
 
